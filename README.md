@@ -1,6 +1,6 @@
 # Experiment Pots
 
-[**CAA2026認知文化財投稿論文**](https://drive.google.com/file/d/1JtcIVHGUhMh9ugbzMWTo7VJXFkkUgRPZ/view?usp=sharing)
+# [**CAA2026認知文化財投稿論文**](https://drive.google.com/file/d/1JtcIVHGUhMh9ugbzMWTo7VJXFkkUgRPZ/view?usp=sharing)
 
 Video demo:
 
