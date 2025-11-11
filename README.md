@@ -1,5 +1,7 @@
 # Experiment Pots
 
+[**CAA2026認知文化財投稿論文**](https://drive.google.com/file/d/1JtcIVHGUhMh9ugbzMWTo7VJXFkkUgRPZ/view?usp=sharing)
+
 Video demo:
 
 1. 土器MR実験デモ動画: [VIDEO](https://drive.google.com/file/d/1BC7-wzMxSH1jwNHvHQkyoxgRcqsZvv5u/view?usp=sharing)
